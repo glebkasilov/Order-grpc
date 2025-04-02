@@ -8,7 +8,7 @@ This App is a simple gRPC-based application that allows users to create, read, u
 
 To install and run the app, follow these steps:
 
-1. Clone the repository: `git clone https://gitlab.crja72.ru/golang/2025/spring/course/students/184550-kasilov-gleb-course-1343.git`
+1. Clone the repository: `git clone https://github.com/glebkasilov/Order-grpc`
 2. Change into the repository directory: `cd application`
 3. Build the app: `make build`
 4. Run the app: `make run`
